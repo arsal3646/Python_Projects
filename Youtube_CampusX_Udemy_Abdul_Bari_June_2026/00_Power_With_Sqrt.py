@@ -1,7 +1,6 @@
 import math
 
-# Ask user for a number
-n = float(input("Enter a number: "))
+n = 5
 
 # Calculate square root
 root = math.sqrt(n)
