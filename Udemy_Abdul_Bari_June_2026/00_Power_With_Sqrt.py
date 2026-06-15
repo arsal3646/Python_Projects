@@ -9,3 +9,5 @@ root = math.sqrt(n)
 result = n ** root
 
 print(f"{n} raised to the power of its square root ({root}) is: {result}")
+
+# create a numpy array with 10 numbers 
