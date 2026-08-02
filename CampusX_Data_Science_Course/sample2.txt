@@ -1,2 +1,2 @@
-This is a sample NEXT text file.
-This is a sample NEXT text file.
+Salman Khan is a good actor.
+Append - Shahrukh Khan is good too.
