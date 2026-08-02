@@ -1,2 +1,5 @@
 Salman Khan is a good actor.
 Append - Shahrukh Khan is good too.
+This is Delhi 
+This is Paris 
+This is London 
